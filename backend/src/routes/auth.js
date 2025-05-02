@@ -1,0 +1,1 @@
+// Adicione aqui as rotas de autenticação
